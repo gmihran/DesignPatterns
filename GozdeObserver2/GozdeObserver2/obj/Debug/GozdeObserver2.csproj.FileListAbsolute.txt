@@ -1,0 +1,7 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeObserver2\GozdeObserver2\obj\Debug\GozdeObserver2.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeObserver2\GozdeObserver2\obj\Debug\GozdeObserver2.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeObserver2\GozdeObserver2\bin\Debug\GozdeObserver2.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeObserver2\GozdeObserver2\bin\Debug\GozdeObserver2.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeObserver2\GozdeObserver2\bin\Debug\GozdeObserver2.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeObserver2\GozdeObserver2\obj\Debug\GozdeObserver2.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeObserver2\GozdeObserver2\obj\Debug\GozdeObserver2.pdb
