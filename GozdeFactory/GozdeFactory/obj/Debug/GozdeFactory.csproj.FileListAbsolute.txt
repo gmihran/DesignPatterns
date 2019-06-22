@@ -1,0 +1,7 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeFactory\GozdeFactory\bin\Debug\GozdeFactory.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeFactory\GozdeFactory\bin\Debug\GozdeFactory.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeFactory\GozdeFactory\bin\Debug\GozdeFactory.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeFactory\GozdeFactory\obj\Debug\GozdeFactory.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeFactory\GozdeFactory\obj\Debug\GozdeFactory.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeFactory\GozdeFactory\obj\Debug\GozdeFactory.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeFactory\GozdeFactory\obj\Debug\GozdeFactory.pdb

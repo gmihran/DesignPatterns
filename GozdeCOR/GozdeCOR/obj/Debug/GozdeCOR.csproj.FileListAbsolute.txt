@@ -1,0 +1,7 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeCOR\GozdeCOR\bin\Debug\GozdeCOR.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeCOR\GozdeCOR\bin\Debug\GozdeCOR.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeCOR\GozdeCOR\bin\Debug\GozdeCOR.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeCOR\GozdeCOR\obj\Debug\GozdeCOR.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeCOR\GozdeCOR\obj\Debug\GozdeCOR.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeCOR\GozdeCOR\obj\Debug\GozdeCOR.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeCOR\GozdeCOR\obj\Debug\GozdeCOR.pdb

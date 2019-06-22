@@ -1,0 +1,7 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeIterator\GozdeIterator\obj\Debug\GozdeIterator.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeIterator\GozdeIterator\obj\Debug\GozdeIterator.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeIterator\GozdeIterator\bin\Debug\GozdeIterator.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeIterator\GozdeIterator\bin\Debug\GozdeIterator.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeIterator\GozdeIterator\bin\Debug\GozdeIterator.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeIterator\GozdeIterator\obj\Debug\GozdeIterator.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeIterator\GozdeIterator\obj\Debug\GozdeIterator.pdb
