@@ -1,0 +1,13 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAbstactFactory\GozdeAbstactFactory\bin\Debug\GozdeAbstactFactory.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAbstactFactory\GozdeAbstactFactory\bin\Debug\GozdeAbstactFactory.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAbstactFactory\GozdeAbstactFactory\bin\Debug\GozdeAbstactFactory.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAbstactFactory\GozdeAbstactFactory\obj\Debug\GozdeAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAbstactFactory\GozdeAbstactFactory\obj\Debug\GozdeAbstactFactory.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAbstactFactory\GozdeAbstactFactory\obj\Debug\GozdeAbstactFactory.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAbstractFactory\GozdeAbstactFactory\bin\Debug\GozdeAbstractFactory.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAbstractFactory\GozdeAbstactFactory\bin\Debug\GozdeAbstractFactory.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAbstractFactory\GozdeAbstactFactory\bin\Debug\GozdeAbstractFactory.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAbstractFactory\GozdeAbstactFactory\obj\Debug\GozdeAbstractFactory.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAbstractFactory\GozdeAbstactFactory\obj\Debug\GozdeAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAbstractFactory\GozdeAbstactFactory\obj\Debug\GozdeAbstractFactory.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAbstractFactory\GozdeAbstactFactory\obj\Debug\GozdeAbstractFactory.pdb

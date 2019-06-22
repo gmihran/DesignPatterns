@@ -1,0 +1,7 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAdapter\GozdeAdapter\obj\Debug\GozdeAdapter.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAdapter\GozdeAdapter\obj\Debug\GozdeAdapter.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAdapter\GozdeAdapter\bin\Debug\GozdeAdapter.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAdapter\GozdeAdapter\bin\Debug\GozdeAdapter.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAdapter\GozdeAdapter\bin\Debug\GozdeAdapter.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAdapter\GozdeAdapter\obj\Debug\GozdeAdapter.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeAdapter\GozdeAdapter\obj\Debug\GozdeAdapter.pdb

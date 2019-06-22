@@ -1,0 +1,7 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeBuilder\GozdeBuilder\obj\Debug\GozdeBuilder.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeBuilder\GozdeBuilder\obj\Debug\GozdeBuilder.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeBuilder\GozdeBuilder\bin\Debug\GozdeBuilder.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeBuilder\GozdeBuilder\bin\Debug\GozdeBuilder.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeBuilder\GozdeBuilder\bin\Debug\GozdeBuilder.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeBuilder\GozdeBuilder\obj\Debug\GozdeBuilder.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeBuilder\GozdeBuilder\obj\Debug\GozdeBuilder.pdb
