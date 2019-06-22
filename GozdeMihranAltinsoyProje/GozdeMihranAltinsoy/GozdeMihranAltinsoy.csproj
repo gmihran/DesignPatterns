@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D5B8F447-2D2C-4DE6-8EE1-135FBEEBE251}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>GozdeMihranAltinsoy</RootNamespace>
+    <AssemblyName>GozdeMihranAltinsoy</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adaptee.cs" />
+    <Compile Include="Adapter.cs" />
+    <Compile Include="AgriKesici.cs" />
+    <Compile Include="AkutAgriKesici.cs" />
+    <Compile Include="AkutVisitor.cs" />
+    <Compile Include="Ayarlar.cs" />
+    <Compile Include="AyarlarCareTaker.cs" />
+    <Compile Include="AyarlarMemento.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="CORHandler.cs" />
+    <Compile Include="Factory.cs" />
+    <Compile Include="Icommand.cs" />
+    <Compile Include="IIlacAggregate.cs" />
+    <Compile Include="IIlacIterator.cs" />
+    <Compile Include="Ilac.cs" />
+    <Compile Include="Ilac2.cs" />
+    <Compile Include="IlacBuilder.cs" />
+    <Compile Include="IlacCesidineGoreHesapla.cs" />
+    <Compile Include="IlacConcrete1.cs" />
+    <Compile Include="IlacConcrete2.cs" />
+    <Compile Include="IlacConcreteAggregate.cs" />
+    <Compile Include="IlacConcreteIterator.cs" />
+    <Compile Include="IlacDirector.cs" />
+    <Compile Include="Ilacim.cs" />
+    <Compile Include="IlacIslemleri.cs" />
+    <Compile Include="Ilaclar.cs" />
+    <Compile Include="IlacPaketleKomutu.cs" />
+    <Compile Include="IlacTur.cs" />
+    <Compile Include="ITutarHesaplayici.cs" />
+    <Compile Include="IVisitor.cs" />
+    <Compile Include="KomutIletici.cs" />
+    <Compile Include="Krem.cs" />
+    <Compile Include="KronikAgriKesici.cs" />
+    <Compile Include="KronikVisitor.cs" />
+    <Compile Include="Perakende.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Satis.cs" />
+    <Compile Include="SatisYapKomutu.cs" />
+    <Compile Include="SatisYetkisi.cs" />
+    <Compile Include="Surup.cs" />
+    <Compile Include="Tablet.cs" />
+    <Compile Include="Toptanci.cs" />
+    <Compile Include="Ureten.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

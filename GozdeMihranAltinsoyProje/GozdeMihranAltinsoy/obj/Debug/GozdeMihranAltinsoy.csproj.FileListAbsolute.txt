@@ -1,0 +1,14 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoy\GozdeMihranAltinsoy\bin\Debug\GozdeMihranAltinsoy.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoy\GozdeMihranAltinsoy\bin\Debug\GozdeMihranAltinsoy.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoy\GozdeMihranAltinsoy\bin\Debug\GozdeMihranAltinsoy.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoy\GozdeMihranAltinsoy\obj\Debug\GozdeMihranAltinsoy.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoy\GozdeMihranAltinsoy\obj\Debug\GozdeMihranAltinsoy.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoy\GozdeMihranAltinsoy\obj\Debug\GozdeMihranAltinsoy.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoy\GozdeMihranAltinsoy\obj\Debug\GozdeMihranAltinsoy.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoyProje\GozdeMihranAltinsoy\bin\Debug\GozdeMihranAltinsoy.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoyProje\GozdeMihranAltinsoy\bin\Debug\GozdeMihranAltinsoy.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoyProje\GozdeMihranAltinsoy\bin\Debug\GozdeMihranAltinsoy.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoyProje\GozdeMihranAltinsoy\obj\Debug\GozdeMihranAltinsoy.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoyProje\GozdeMihranAltinsoy\obj\Debug\GozdeMihranAltinsoy.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoyProje\GozdeMihranAltinsoy\obj\Debug\GozdeMihranAltinsoy.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMihranAltinsoyProje\GozdeMihranAltinsoy\obj\Debug\GozdeMihranAltinsoy.pdb

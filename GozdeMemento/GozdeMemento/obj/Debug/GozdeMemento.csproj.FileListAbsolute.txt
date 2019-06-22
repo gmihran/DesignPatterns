@@ -1,0 +1,7 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMemento\GozdeMemento\bin\Debug\GozdeMemento.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMemento\GozdeMemento\bin\Debug\GozdeMemento.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMemento\GozdeMemento\bin\Debug\GozdeMemento.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMemento\GozdeMemento\obj\Debug\GozdeMemento.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMemento\GozdeMemento\obj\Debug\GozdeMemento.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMemento\GozdeMemento\obj\Debug\GozdeMemento.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeMemento\GozdeMemento\obj\Debug\GozdeMemento.pdb
