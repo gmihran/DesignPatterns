@@ -1,0 +1,7 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdePrototype\GozdePrototype\bin\Debug\GozdePrototype.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdePrototype\GozdePrototype\bin\Debug\GozdePrototype.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdePrototype\GozdePrototype\bin\Debug\GozdePrototype.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdePrototype\GozdePrototype\obj\Debug\GozdePrototype.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdePrototype\GozdePrototype\obj\Debug\GozdePrototype.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdePrototype\GozdePrototype\obj\Debug\GozdePrototype.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdePrototype\GozdePrototype\obj\Debug\GozdePrototype.pdb

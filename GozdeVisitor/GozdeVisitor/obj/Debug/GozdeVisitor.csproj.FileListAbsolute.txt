@@ -1,0 +1,7 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeVisitor\GozdeVisitor\obj\Debug\GozdeVisitor.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeVisitor\GozdeVisitor\obj\Debug\GozdeVisitor.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeVisitor\GozdeVisitor\bin\Debug\GozdeVisitor.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeVisitor\GozdeVisitor\bin\Debug\GozdeVisitor.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeVisitor\GozdeVisitor\bin\Debug\GozdeVisitor.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeVisitor\GozdeVisitor\obj\Debug\GozdeVisitor.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeVisitor\GozdeVisitor\obj\Debug\GozdeVisitor.pdb

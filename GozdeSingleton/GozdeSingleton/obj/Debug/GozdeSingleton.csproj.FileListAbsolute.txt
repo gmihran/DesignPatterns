@@ -1,0 +1,7 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeSingleton\GozdeSingleton\bin\Debug\GozdeSingleton.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeSingleton\GozdeSingleton\bin\Debug\GozdeSingleton.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeSingleton\GozdeSingleton\bin\Debug\GozdeSingleton.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeSingleton\GozdeSingleton\obj\Debug\GozdeSingleton.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeSingleton\GozdeSingleton\obj\Debug\GozdeSingleton.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeSingleton\GozdeSingleton\obj\Debug\GozdeSingleton.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\GozdeSingleton\GozdeSingleton\obj\Debug\GozdeSingleton.pdb
